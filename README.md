@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @krlle,
-- 🌍 Based in Copenhagen 
-- 👀 I’m interested in art, python, philosophy
-- 🌱 I’m currently learning Python
+
 
 
 <!---
